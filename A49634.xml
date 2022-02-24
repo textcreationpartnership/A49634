@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last dying words and execution of Jonathan Tue, and John Richardson, who were this 17th day of September, executed at Tyburn also an account of their behaviour in Newgate after sentence, to the day of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49634</idno>
+            <idno type="STC">Wing L483</idno>
+            <idno type="STC">ESTC R41454</idno>
+            <idno type="EEBO-CITATION">31355379</idno>
+            <idno type="OCLC">ocm 31355379</idno>
+            <idno type="VID">110431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last dying words and execution of Jonathan Tue, and John Richardson, who were this 17th day of September, executed at Tyburn also an account of their behaviour in Newgate after sentence, to the day of execution.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Eliz. Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:110431:1" rendition="simple:additions"/>
+            <head>THE Laſt Dying Words AND EXECUTION Of <hi>Jonathan Tue,</hi> and <hi>John Richardſon.</hi> Who were this 17th. Day of <hi>September,</hi> Executed AT TYBURN Alſo an Account of their Behaviour in <hi>Newgate</hi> after Sentence, to the day of <hi>Execution.</hi>
+            </head>
+            <p>AT the laſt Seſſions, at the <hi>Old Bayly,</hi> twelve perſons re<g ref="char:EOLhyphen"/>ceived Sentence of Death, ten of which, by his Ma<g ref="char:EOLhyphen"/>jeſties great Clemency were reprieved, and only <hi>Jonathan Tue,</hi> and <hi>John Richardſon</hi> this day ſuffered.</p>
+            <p>
+               <hi>Jonathan Tue</hi> lived in <hi>Newport-Street,</hi> and kept a Vi<g ref="char:EOLhyphen"/>ctualing Houſe, where there happening ſome diſpute between him and another perſon, about four Shillings, which the ſaid perſon charged him withal, he refuſed to pay it, urging that upon the Account he was not ſo much indebted to him: the other perſon threat'ned to Arreſt him if he did not ſatisfie him in it, and accordingly ordered an Officer to take out a Writ againſt him, who did ſo, and going to the ſaid <hi>Tue</hi>'s Houſe, with <hi>William Graves,</hi> a follower of his, and three more, they called for a Room and a Pot of Drink; <hi>Tue</hi> paſſing by the Room where they were, ſuſpected them to be Baliffs, and ran directly into the Kitchen, whither they purſued him; but ta<g ref="char:EOLhyphen"/>king down an Halberd, he reſolutely defended himſelf againſt them a long while, and wounded one of them in ſeveral pla<g ref="char:EOLhyphen"/>ces, and at laſt clear'd the Kitchen of them and made faſt the door, but the Bayliffs by main force, broke open the door up<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:110431:2"/>him, whom <hi>Tue</hi> afreſh engaged and had probably defend<g ref="char:EOLhyphen"/>ed himſelf with greater miſchief to the Aſſailants had not <hi>William Graves</hi> got in at a back door, whom <hi>Tue</hi> eſpying, tur<g ref="char:EOLhyphen"/>ned ſuddenly and darted his Halberd at him, and wounded him under the left Breaſt, upon which he drop'd down with<g ref="char:EOLhyphen"/>out ſpeaking a word. All the defence that <hi>Tue</hi> made was, that they aſſaulted him, by offering to ſeize his perſon, with<g ref="char:EOLhyphen"/>out giving him the word of Arreſt, or ſhewing him their Writ, and that he thought he might fairly defend himſelf againſt their apprehending of him, ſo long as they had not laid hands on him, nor did he think himſelf their Priſoner till he was in their Cuſtody. But it did appear in the behalf of the Bayliff, that they both ſhewed him the Writ, and gave him the word of Arreſt, upon which he ought to have rend'red himſelf, which was proved by four Witneſſes, and the Writ produced in Court, upon which he was found Guilty of wilful Murder, and received Sentence of Death.</p>
+            <p>
+               <hi>John Richardſon</hi> a Tinker, lived in <hi>Killingham</hi> in <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and was Indicted for the Murder of his Wife <hi>Martha Rich<g ref="char:EOLhyphen"/>ardſon.</hi> It did appear at his Tryal, by the Teſtimony of ſe<g ref="char:EOLhyphen"/>veral Neighbours, that in <hi>July</hi> laſt, he Barbarouſly miſuſed her, by throwing her upon the ground, kicking and beating her over the Head, Breaſt, and Belly; of which blows and bruiſ<g ref="char:EOLhyphen"/>es ſhe languiſhed till the 6th. of <hi>Auguſt;</hi> and then dyed. It was ſworn againſt him by her Siſter, that during the time of her ſickneſs, ſhe did often complain of his cruelty to her, char<g ref="char:EOLhyphen"/>ged him with being the occaſion of her death, and moſt ear<g ref="char:EOLhyphen"/>neſtly obliged her ſaid Siſter to proſecute and revenge her un<g ref="char:EOLhyphen"/>timely end upon that wicked wretch, who had been the cauſe of it. Several of the Neighbours gave in Evidence, that in all the time of her ſickneſs, ſhe would frequently expreſs her reſentments of the cruel uſage of her Husband, and notwith<g ref="char:EOLhyphen"/>ſtanding their good and Chriſtian advice to her to forgive her Enemies, and all thoſe who had any ways injured her, yet could they not prevail with her to expreſs, ſhe had ſo much kindneſs or charity for her Husband to pardon him. The next day after ſhe was thus beat, ſhe ſpit Blood, and bled at leaſt a pint and half, which though ſhe endeavoured to waſh from the place where it was ſhed, ſhe could not do, but there ſtill remained the viſible marks and ſtains thereof. The Priſ<g ref="char:EOLhyphen"/>oner
+<pb n="3" facs="tcp:110431:2"/>had nothing material to offer in his defence, but that his Wife was drunk at the time ſhe ſaid ſhe was beaten, and by a fall ſhe received, had thus bruiſed and miſchieved her ſelf, but ſeveral of the Neighbours ſwore poſſitively they ſaw him drag her by the hair of the Head along the Street; that ſhe was a young Woman of about 25 years of Age, and of a good Re<g ref="char:EOLhyphen"/>putation, for her honeſt Life and ſober Behaviour. The Priſo<g ref="char:EOLhyphen"/>ner was upwards of 50. and of very ill Report amongſt all that knew him, that during the time of his wives languiſhing he took no care of her: and was ſo far from being ſorry for what he had done, that he had declared, if he had not yet done her buſineſs, he would do it ſome other time. He was farther ſuſpected for the Murder of his former Wife, who it was ſaid died ſuddenly, and her Body found under her Husband's Bed, with her hair about her Ears; all which Circumſtances had formerly rend'red him much ſuſpected by his Neighbours: But this Inhumane and Barbarous Act has now publiſhed his Villainy to the World; and his cruel and Savage Nature, made him a miſerable Example to Man-kind.</p>
+            <p>I ſhall now ſpeak particularly of the Behaviour of theſe Cri<g ref="char:EOLhyphen"/>minals ſince their Condemnation.</p>
+            <p>On <hi>Sunday,</hi> the 7th of this Inſtant, theſe two Malefactors with ſix more appeared at Chappel, where Mr. <hi>Ordinary</hi> gave them very Pious Exhortations and Encouragements to Repen<g ref="char:EOLhyphen"/>tance, and a ſerious Conſideration, in what a dangerous condi<g ref="char:EOLhyphen"/>tion their precious Souls <hi>were</hi> in, if they did not now improve thoſe few and laſt Minutes of their Life, to the Eternal Salvati<g ref="char:EOLhyphen"/>on of their immortal Souls. His Text was taken out of the 22th. Chapter of the Prophet <hi>Jeremiah,</hi> and 21ſt. Verſe. <hi>I ſpeak unto thee in thy proſperity,</hi> &amp;c. His whole Diſcourſe tend<g ref="char:EOLhyphen"/>ed to the diſcovery of the heinouſneſs of ſin in general, and particularly of thoſe notorious Crimes they <hi>were</hi> guilty of, and juſtly Condemned for. Theſe 2 perſons appeared very peni<g ref="char:EOLhyphen"/>tent and attentive to his Sermon, and particularly <hi>Tue</hi> ſeemed to be truly afflicted for his ſins, and ſpent all his time in prayer, reading and meditation. <hi>Richardſon,</hi> appeared heartily ſorry for his former <hi>wicked</hi> Courſes, but <hi>would</hi> not <hi>owne</hi> that he <hi>was</hi> guilty of his Wives Murder, but that the bruiſes ſhe had <hi>was</hi> by a fall, as he alledged at his Tryal, of which the <hi>whole</hi> Court <hi>was well</hi> ſatisfied to the contrary.</p>
+            <pb n="4" facs="tcp:110431:3" rendition="simple:additions"/>
+            <p>About eight this Morning, a <hi>worthy</hi> Divine <hi>went</hi> up to the Priſoners, <hi>who</hi> gave them ſeveral Exhortations to Repentance, and prayed <hi>with</hi> them a conſiderable time. <hi>Jonathan Tue</hi> appeared very penitent, both for this, and all other his former ſins. <hi>John Richardſon</hi> who had hitherto denyed his guilt <hi>now</hi> began to be more ſoftned, in heart and <hi>went</hi> to prayers by him<g ref="char:EOLhyphen"/>ſelf, and prayed very frequently: aftervvards being told that he ought to give God the Glory by an open Confeſſion of his Crime, he did no longer deny it, but ſeemed <hi>willing</hi> to apolo<g ref="char:EOLhyphen"/>giſe for himſelf in that it <hi>was</hi> no part of his intentions to in<g ref="char:EOLhyphen"/>jure her, and that four days before going into <hi>Suſſex,</hi> he took leave of her and then left her in a very hopeful condition of re<g ref="char:EOLhyphen"/>covery, and that ſhe expreſt her ſelf very kindly to him, &amp; be<g ref="char:EOLhyphen"/>ing asked more preſſingly about the Death of his former Wife, he ſaid that ſhe dyed of a ſurfeit, and <hi>whereas</hi> it had been re<g ref="char:EOLunhyphen"/>ported that ſhe <hi>was</hi> found under the Bed, he declared that as ſhe <hi>was</hi> putting on her Stockings by the Bed-ſide ſhe fell upon the floor, <hi>when</hi> lifting her upon the Bed, he called in <hi>two</hi> Wo<g ref="char:EOLhyphen"/>men that <hi>where</hi> his Neighbours, <hi>who ſaw</hi> her upon the Bed ſpeechleſs, and a little time after dyed.</p>
+            <p>Afterwards Mr. <hi>Ordinary</hi> had them up to the Chappel to prayers, and then being carried to have their Irons ſtruck of, each perſon was asked his Name, and <hi>Tue</hi> ſaid his Name was <hi>Jonathan,</hi> and at the very inſtant he was ty'd up, appeared with a chearful Countenance, conſtantly praying: but <hi>Richardſon</hi> appeared more dejected, afterwards they were put into one Cart and car<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied to the place of Execution.</p>
+            <p>At <hi>Tyburn. Tue</hi> had the Halter put about his Neck, when a Friend and Neigh<g ref="char:EOLhyphen"/>bour of his coming into the Cart to him, he deſired him to give his Love to his Wife, and Bleſſing to his Children, and then thus expreſſ'd himſelf: <q>O Lord God I have been a great Sinner, and offended againſt thy holy laws; more par<g ref="char:EOLhyphen"/>ticulariy in breaking the Sabboth and diſobedience to my Parants; but thou O Lord have mercy upon me, Chriſt have mercy upon me, Lord have mercy upon me; O Lord ſtrengthen my Faith in prayer, which I thank God I have found great be<g ref="char:EOLhyphen"/>nifit by: I repent from the bottom of my heart of all my Sins, and of this moſt bloody Crime I now dye for, and I thank thee O God I am now ſo cheered by the light off thy Countenance to me, that it is as equal to me to dye as to live; or in words to this purpoſe.</q>
+            </p>
+            <p>
+               <hi>Richardſon</hi> confeſſed that he did beat his Wife, which he thought might haſten her death, though he never deſigned it. Afterwards they went to prayers, and ſung part of the 25th. <hi>Pſalm, Thy mercy is manifold,</hi> &amp;c. Afterwards he applying himſelf in Prayer, Lord have mercy upon me, Chriſt have mercy upon me, concluding with the Lords Prayer, ſaying Our Father, <hi>&amp;c.</hi> Then the Carts was drawn away, and they ſuffered according to Law. <hi>Tues</hi> hody was by his Friends put into a Coffin, and is to be interr'd in St. <hi>Murtins.</hi> Church-Yard.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed by</hi> Eliz. Mallet <hi>in</hi> Black-Horſe Alley, <hi>near</hi> Fleet-Bridge <hi>1684.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
